@@ -33,3 +33,5 @@ pm2 start index.js
 - [] Implement a way for players to send messages to bot to query server information:
     - [] Get server status
     - [] Get currentOnline players
+ 
+  test
